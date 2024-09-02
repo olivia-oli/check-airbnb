@@ -1,0 +1,31 @@
+GET http://localhost:5004/users
+###
+
+GET http://localhost:5004/bookings
+###
+
+GET http://localhost:5004/listings
+###
+
+GET http://localhost:5004/hosts
+###
+
+POST http://localhost:5004/register
+Content-Type: application/json
+
+{
+    "email": "olivia@gmail.com",
+    "password": "12345"
+} 
+###
+
+POST http://localhost:5004/login
+Content-Type: application/json
+
+{
+    "email": "olivia125@gmail.com",
+    "password": "12345"
+}
+###
+
+

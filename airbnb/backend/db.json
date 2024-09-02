@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "email": "olivia125@gmail.com",
+      "password": "$2a$10$OMy9flJnOJ1kkMS45rO8QumMER8zNM.CpXGq54XD8EEYxL3xiorn2",
+      "id": 1
+    },
+    {
+      "email": "olivia@gmail.com",
+      "password": "$2a$10$tviFGivVQbGo50cUKLjaE.F.x22QMmMuy/foH/TaZ8HOri5u.YpNC",
+      "id": 2
+    }
+  ],
+  "listings": [
+    {
+      "listingId": 1,
+      "bathNum": 2,
+      "bedNum": 3,
+      "zip": 50121,
+      "address": "sandton 5418",
+      "city": "Johannesburg",
+      "street": "end",
+      "price": 500,
+      "sqFt": 100,
+      "email": "example@gmail.com",
+      "hostId": 1
+    },
+    {
+      "listingId": 1,
+      "bathNum": 2,
+      "bedNum": 3,
+      "zip": 50121,
+      "address": "sandton 5418",
+      "city": "Johannesburg",
+      "street": "end",
+      "price": 500,
+      "sqFt": 100,
+      "email": "example@gmail.com",
+      "hostId": 1
+    }
+  ],
+  "hosts": [
+    {
+      "hostId": 1,
+      "hostName": "kamo",
+      "hostNumber": "0815237585"
+    }
+  ]
+}
